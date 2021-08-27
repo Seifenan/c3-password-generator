@@ -29,4 +29,4 @@ Using a **combination** of **random** uppercase and lowercase alphabets, as well
 
 ## Completed Screenshot
 
-<img src="assets\images\screenshot.png">
+<img src="Assets\images\screenshot.png">
